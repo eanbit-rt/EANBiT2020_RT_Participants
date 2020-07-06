@@ -145,3 +145,21 @@ Role: Contributor
 
 Photo:
 ![Stella](/home/stella-nabirye/Pictures/Passportsizephoto_StellaEstherNabirye.png)
+___
+
+### Jane Njeri
+**Institution:** Pwani University
+
+**Interests:**
+1. Statistical genomics
+2. Biomarker identification
+3. Machine learning
+4. Reproducible research
+5. Salsa
+
+**Role:** Student
+
+**Photo**
+
+![Jane](https://avatars1.githubusercontent.com/u/55382347?s=400&u=e81f10b26ba6965a206c4b046d13475d6fe0e768&v=4)
+
