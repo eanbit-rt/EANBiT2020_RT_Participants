@@ -30,6 +30,16 @@ Edited by: **Olga Nsangi**
 
 ___
 
+### 2. Emmanuel Mande
+Instituition: **Makerere University**
+
+Interests: 
+1. Genomics
+2. Machine Learning/ Big Biodata
+3. Infectious diseases
+
+Role: Student
+
 
 ### 30. Mthande Mzwakhile 
 
@@ -122,4 +132,34 @@ Role: Participant
 
 Photo: 
 ![Eva](https://avatars0.githubusercontent.com/u/44997762?s=460&u=0c71b654601d1a6d24e361dcae16fe1cb1654114&v=4)
+
+
+### Stella Esther Nabirye
+
+Instituion: Makerere University
+
+Interests:
+1. Viral Transmission patterns and mutation dynamics
+
+Role: Contributor
+
+Photo:
+![Stella](/home/stella-nabirye/Pictures/Passportsizephoto_StellaEstherNabirye.png)
+___
+
+### Jane Njeri
+**Institution:** Pwani University
+
+**Interests:**
+1. Statistical genomics
+2. Biomarker identification
+3. Machine learning
+4. Reproducible research
+5. Salsa
+
+**Role:** Student
+
+**Photo**
+
+![Jane](https://avatars1.githubusercontent.com/u/55382347?s=400&u=e81f10b26ba6965a206c4b046d13475d6fe0e768&v=4)
 
