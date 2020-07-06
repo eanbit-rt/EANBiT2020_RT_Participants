@@ -37,7 +37,7 @@ Photo:
 ### Peter Muchina
 Instituition: ICIPE
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Ficipe&psig=AOvVaw1XHUA9tlDWWv-Jfwj7obBX&ust=1594122051829000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjJucjFuOoCFQAAAAAdAAAAABAD)
+![](https://i1.wp.com/bioinnovate-africa.org/wp-content/uploads/2019/06/icipe_logo.jpg?resize=1400%2C9999&ssl=1)
 
 Interests: 
 1. genomics
