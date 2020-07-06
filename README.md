@@ -130,6 +130,7 @@ Instituion: Makerere University
 
 Interests:
 1. Viral Transmission patterns and mutation dynamics
+2. Human genetics
 
 Role: Contributor
 
