@@ -9,10 +9,20 @@ Interests:
 1. Open science
 
 Role: Trainer / Organizer & Instructor
+### 1. eKariuki
+Instituition: **ICIPE**
+
+Interests: 
+1. Metagenomics
+1. Machine Learning
+1. Bioenergy
+1. Reggae
+
+Role: Trainee
 
 Photo of Caleb: 
 
-![Caleb Picture](https://avatars2.githubusercontent.com/u/3762127?s=460&u=6207a79932618c06f74b5f21378b27fecc770eb1&v=4)
+![ekariuki Picture](https://github.com/account)
 
-Edited by: Kakembo Fredrick Elishama
-New edit by: ### Hello World
+Edited by: eKariuki
+
