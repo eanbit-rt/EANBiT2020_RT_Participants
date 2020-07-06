@@ -169,5 +169,5 @@ ___
 **Interests:**  
 Big data
 
-**Role:** `Student`
+**Role:** `Student`  
 ![Davis](https://www.breca.mak.ac.ug/sites/default/files/inline-images/Davis.jpg)
