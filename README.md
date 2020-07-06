@@ -55,14 +55,16 @@ Photo:
 ### Shahiid KIyaga
 Institution:***Makerere University***
 
-Interests;  ***Antimicrobial resistance(AMR)
-            ***Vaccine development
-            ***Phylogenetics 
-            ***Disease dynamics and modelling
-            ***Host-pathogen genomics
-            ***Population genetics and genomics
+Interests;  
+1. ***Antimicrobial resistance(AMR)***
+
+2. ***Vaccine development***
+3. ***Phylogenetics***
+4. ***Disease dynamics and modelling***
+5. ***Host-pathogen genomics***
+6. ***Population genetics and genomics***
            
-Role:       ***Participant
+Role: ***Participant***
 
 photo:
 ![Shahiid](Snapchat-1651780333.jpg)
