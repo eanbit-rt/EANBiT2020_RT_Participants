@@ -20,3 +20,59 @@ Instituition: **ICIPE**
 Edited by: Kakembo Fredrick Elishama
 ___
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Name: Winfred Gatua
+
+#institution: Pwani University
+
+## Interest:
+1. Molecular epidemiology
+
+2. Virus Genomics and evolution
+
+3. Data mining
+
+
+**Role** Participant
+
+#Objective of the training: Learn more Bioinformatics
+
+#photo
+![Gatua](https://github.com/account)
