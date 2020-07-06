@@ -177,5 +177,6 @@ Bioinformatics(MSc) / Collaborator
 **Likes**
 1. Bioinformatics
 2. Molecular Biology
+
 **Nationality**
 Ugandan
