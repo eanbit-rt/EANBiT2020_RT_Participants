@@ -134,5 +134,5 @@ Interests:
 Role: Contributor
 
 Photo:
-![Stella](/home/stella-nabirye/Pictures/Passportsizephoto_StellaEstherNabirye.png)
+![Stella](https://pbs.twimg.com/profile_images/1206856188761124864/lfpj0w4X_400x400.jpg)
 =======
