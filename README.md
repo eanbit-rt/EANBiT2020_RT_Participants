@@ -169,7 +169,9 @@ ___
 1. Cancer genomics
 2. Genome wide Association studies
 3. Parasite genomics
+
 **Role:** Student
+
 **Photo**
-![Levis](/home/Desktop/pics/Levis_dec_2019.jpeg)
+![Levis](https://home/Desktop/pics/Levis_dec_2019.jpeg)
 
