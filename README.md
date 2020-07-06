@@ -164,19 +164,19 @@ ___
 ![Jane](https://avatars1.githubusercontent.com/u/55382347?s=400&u=e81f10b26ba6965a206c4b046d13475d6fe0e768&v=4)
 
 ### Omara Isaac Emmanuel
-**Institution** 
+**Institution**<br>
 Makerere University
 
-**Role**
+**Role**<br>
 Bioinformatics(MSc) / Collaborator
 
-**Interests**
+**Interests**<br>
 1. Watching Documentaries
 2. Current Affairs
 
-**Likes**
+**Likes**<br>
 1. Bioinformatics
 2. Molecular Biology
 
-**Nationality**
+**Nationality**<br>
 Ugandan
