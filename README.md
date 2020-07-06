@@ -165,6 +165,7 @@ ___
 
 
 ### Levis Katwiire
+
 **Interests**
 1. Cancer genomics
 2. Genome wide Association studies
@@ -172,6 +173,5 @@ ___
 
 **Role:** Student
 
-**Photo**
-![Levis](https://home/Desktop/pics/Levis_dec_2019.jpeg)
+
 
