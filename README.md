@@ -24,8 +24,9 @@ ___
 2. Biomarker identification
 3. Machine learning
 4. Reproducible research
+5. Salsa
 
-**Role:** Trainee
+**Role:** Student
 
 **Photo**
 
