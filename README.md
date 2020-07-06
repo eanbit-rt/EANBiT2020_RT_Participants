@@ -170,3 +170,4 @@ ___
 Big data
 
 **Role:** `Student`
+![Davis](https://www.breca.mak.ac.ug/sites/default/files/inline-images/Davis.jpg)
