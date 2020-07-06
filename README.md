@@ -166,13 +166,17 @@ ___
 ### Omara Isaac Emmanuel
 **Institution**<br>
 Makerere University
+
 **Role**<br>
 Bioinformatics(MSc) / Collaborator
-**Interests**<br>
+
+**Interests**
 1. Watching Documentaries
 2. Current Affairs
+
 **Likes**<br>
 1. Bioinformatics
 2. Molecular Biology
+
 **Nationality**<br>
 Ugandan
