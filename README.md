@@ -27,4 +27,4 @@ Role: Participant
 
 Photo:
 
-![Kester](https://github.com/Tindi-Kester-Bevin-Bataringaya/EANBiT2020_RT_Participants/blob/master/c20834b8-9020-41e5-a899-889d30738dc4.jpg)
+![Kester](https://github.com/Tindi-Kester-Bevin-Bataringaya/EANBiT2020_RT_Participants/blob/master/97050ced-21da-473a-870c-2a19f2394124.jpg)
