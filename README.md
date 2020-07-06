@@ -14,4 +14,17 @@ Photo:
 
 ![Caleb](https://avatars2.githubusercontent.com/u/3762127?s=460&u=6207a79932618c06f74b5f21378b27fecc770eb1&v=4)
 
-**Edited** by Kester Bevin
+**Bio**
+### 13. Kester Bevin
+Institution **Makerere University**
+
+Interests:
+1. Bacterial Genomics
+2. AMR
+3. Sports
+
+Role: Participant
+
+Photo:
+
+![Kester](https://github.com/Tindi-Kester-Bevin-Bataringaya/EANBiT2020_RT_Participants/blob/master/c20834b8-9020-41e5-a899-889d30738dc4.jpg)
