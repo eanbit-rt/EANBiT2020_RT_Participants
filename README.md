@@ -163,3 +163,13 @@ ___
 
 ![Jane](https://avatars1.githubusercontent.com/u/55382347?s=400&u=e81f10b26ba6965a206c4b046d13475d6fe0e768&v=4)
 
+
+### Levis Katwiire
+**Interests**
+1. Cancer genomics
+2. Genome wide Association studies
+3. Parasite genomics
+**Role:** Student
+**Photo**
+![Levis](/home/Desktop/pics/Levis_dec_2019.jpeg)
+
