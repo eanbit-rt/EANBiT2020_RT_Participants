@@ -30,6 +30,16 @@ Edited by: **Olga Nsangi**
 
 ___
 
+### 2. Emmanuel Mande
+Instituition: **Makerere University**
+
+Interests: 
+1. Genomics
+2. Machine Learning/ Big Biodata
+3. Infectious diseases
+
+Role: Student
+
 
 ### 30. Mthande Mzwakhile 
 
@@ -135,4 +145,3 @@ Role: Contributor
 
 Photo:
 ![Stella](/home/stella-nabirye/Pictures/Passportsizephoto_StellaEstherNabirye.png)
-=======
