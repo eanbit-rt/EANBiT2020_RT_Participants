@@ -17,6 +17,24 @@ Instituition: **ICIPE**
 
 **Bio**
 
+___
+
+
+### 1. Evans Mudibo
+
+Institution: **Pwani University**
+
+Interests:
+1. Viral bioinformatics
+2. Molecular epidemiology
+
+Designation: Student
+
+Evans' Photo:
+
+![](https://avatars0.githubusercontent.com/u/55382152?s=460&u=6e638f82d9bc728a2eb55694fd485db4a3a124f5&v=4)
+
+
 ### 2. Nsangi Olga Tendo
 Instituituion: **Makerere University**
 Role: **Bioinformatics Student**
@@ -53,6 +71,7 @@ Role: Student
 
 **Photo Of Mthande**
 ![Mthande] (https://avatars3.githubusercontent.com/u/61830617?s=400&u=a3ae71db5e3c831345936c2783b0de21d2682a8b&v=4)
+
 
 
 ### 22. Mike Mwanga
@@ -100,11 +119,6 @@ Photo:
 https://avatars3.githubusercontent.com/u/13275154?s=96&v=4
 
 
-
-
-
-
-=======
 ### Emmanuel Mande
 Institution: Makerere University
 
@@ -210,7 +224,7 @@ Bioinformatics(MSc) / Collaborator
 
 **Nationality**<br>
 Ugandan
-=======
+
 
 ### Levis Katwiire
 
