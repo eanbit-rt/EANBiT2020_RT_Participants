@@ -204,3 +204,13 @@ Photo:
 
 Role: Trainee
 
+### Agasi Herbert
+Institution: Makerere University
+
+Interests:
+1. Genomics
+2. Machine Learning
+
+
+Role: Trainee
+
