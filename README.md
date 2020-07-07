@@ -175,11 +175,12 @@ Instituion: Makerere University
 
 Interests:
 1. Viral Transmission patterns and mutation dynamics
+2. Human genetics
 
 Role: Contributor
 
 Photo:
-![Stella](/home/stella-nabirye/Pictures/Passportsizephoto_StellaEstherNabirye.png)
+![Stella](https://pbs.twimg.com/profile_images/1206856188761124864/lfpj0w4X_400x400.jpg)
 ___
 
 ### Jane Njeri
