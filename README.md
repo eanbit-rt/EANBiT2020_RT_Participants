@@ -213,3 +213,15 @@ Photo:
 ![Kester](https://github.com/Tindi-Kester-Bevin-Bataringaya/EANBiT2020_RT_Participants/blob/master/selfie2.jpg)
 
 Role: Trainee
+
+
+### Agasi Herbert
+Institution: Makerere University
+
+Interests:
+1. Genomics
+2. Machine Learning
+
+
+Role: Trainee
+
