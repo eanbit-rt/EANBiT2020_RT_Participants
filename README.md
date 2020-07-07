@@ -163,3 +163,14 @@ ___
 
 ![Jane](https://avatars1.githubusercontent.com/u/55382347?s=400&u=e81f10b26ba6965a206c4b046d13475d6fe0e768&v=4)
 
+
+### Paul Talent
+Instituition: **Makerere University**
+
+Interests: 
+1. Genomic data analysis
+2. Machine Learning
+3. Open science
+
+Role: Trainee
+
