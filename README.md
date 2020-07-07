@@ -174,3 +174,14 @@ Interests:
 
 Role: Trainee
 
+
+
+
+### Senamile Dlamini
+Institution: Makerere University
+
+Interests:
+1. Computational Biology
+2. Bioinformatics
+
+Role: Trainee
