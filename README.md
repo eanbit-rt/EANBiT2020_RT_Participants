@@ -130,6 +130,7 @@ Expectations:
 
 Role: Participant
 
+
 Photo: 
 ![Eva](https://avatars0.githubusercontent.com/u/44997762?s=460&u=0c71b654601d1a6d24e361dcae16fe1cb1654114&v=4)
 
@@ -163,6 +164,7 @@ ___
 
 ![Jane](https://avatars1.githubusercontent.com/u/55382347?s=400&u=e81f10b26ba6965a206c4b046d13475d6fe0e768&v=4)
 
+
 ### Omara Isaac Emmanuel
 **Institution**<br>
 Makerere University
@@ -180,3 +182,65 @@ Bioinformatics(MSc) / Collaborator
 
 **Nationality**<br>
 Ugandan
+=======
+
+### Levis Katwiire
+
+**Interests**
+1. Cancer genomics
+2. Genome wide Association studies
+3. Parasite genomics
+
+**Role:** Student
+
+
+### Paul Talent
+Instituition: **Makerere University**
+
+Interests: 
+1. Genomic data analysis
+2. Machine Learning
+3. Open science
+
+Role: Trainee
+
+
+
+
+### Senamile Dlamini
+Institution: Makerere University
+
+Interests:
+1. Computational Biology
+2. Bioinformatics
+
+
+**Bio**
+
+### 13. Kester Bevin
+Institution **Makerere University**
+
+Interests:
+1. Bacterial Genomics
+2. AMR
+3. Sports
+
+Role: **Participant**
+
+Photo:
+
+![Kester](https://github.com/Tindi-Kester-Bevin-Bataringaya/EANBiT2020_RT_Participants/blob/master/selfie2.jpg)
+
+Role: Trainee
+
+
+### Agasi Herbert
+Institution: Makerere University
+
+Interests:
+1. Genomics
+2. Machine Learning
+
+
+Role: Trainee
+
